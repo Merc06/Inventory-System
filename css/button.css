@@ -1,0 +1,49 @@
+.btn-pogi { 
+          color: #FFFFFF; 
+          background-color: #9D292D; 
+          -webkit-box-shadow: 3px 3px 7px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: 3px 3px 7px 0px rgba(0,0,0,0.75);
+            box-shadow: 3px 3px 7px 0px rgba(0,0,0,0.75);
+        } 
+
+        .btn-pogi:hover, 
+        .btn-pogi:focus, 
+        .btn-pogi:active, 
+        .btn-pogi.active, 
+        .open .dropdown-toggle.btn-pogi { 
+          color: #FFFFFF; 
+          background-color: #661618; 
+           
+        } 
+
+        .btn-pogi:active, 
+        .btn-pogi.active, 
+        .open .dropdown-toggle.btn-pogi { 
+          background-image: none; 
+        } 
+
+        .btn-pogi.disabled, 
+        .btn-pogi[disabled], 
+        fieldset[disabled] .btn-pogi, 
+        .btn-pogi.disabled:hover, 
+        .btn-pogi[disabled]:hover, 
+        fieldset[disabled] .btn-pogi:hover, 
+        .btn-pogi.disabled:focus, 
+        .btn-pogi[disabled]:focus, 
+        fieldset[disabled] .btn-pogi:focus, 
+        .btn-pogi.disabled:active, 
+        .btn-pogi[disabled]:active, 
+        fieldset[disabled] .btn-pogi:active, 
+        .btn-pogi.disabled.active, 
+        .btn-pogi[disabled].active, 
+        fieldset[disabled] .btn-pogi.active { 
+          background-color: #9D292D; 
+          
+        } 
+
+        .btn-pogi .badge { 
+          color: #9D292D; 
+          background-color: #FFFFFF; 
+        }
+
+
